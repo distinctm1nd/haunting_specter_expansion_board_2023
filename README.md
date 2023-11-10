@@ -1,5 +1,9 @@
 # haunting_specter_expansion_board_2023
 
+# About Haunting Specter Expansion Board
+
+The Haunting Specter Expansion Board is designed to power and display up to 8 minibadges. Minibadges are a staple at the Saintcon conference that occurs every Fall in Utah. The expansion board can either be powered by connecting it directly to the main (Saintcon) conference badge or as a standalone badge with batteries. Additional expansion board can be attached to and powered from this board. This design was intentionally made easy for swapping out LEDs so that you could practice selecting resistor/LEDs for series circuits and /or so that you could try different color combinations. However, it is not required to swap anything out to build /enjoy this and you can simply build it with provided components. 
+
 # Haunting Specter Expansion Board Instructions
 
 Before starting, verify that you have all of the components. If anything is missing contact me (distinctm1nd) on discord. Also, contact me if you have any questions before / during the assembly process. 
