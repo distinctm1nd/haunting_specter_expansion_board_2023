@@ -202,6 +202,7 @@ To power with batteries, connect the connectors labeled Badge and Battery togeth
 
 You can add additional expansion boards by connecting them to the connector at the bottom left corner. 
 
+<img src="additional_expansion_boards.png" width="400" />
 
 
 
