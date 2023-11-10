@@ -34,27 +34,25 @@ This board was available in two versions. One had multicolored LEDs and one had 
 
 
 
-Red / Yellow Version
-Haunting specter pcb 
-1- 15 ohm SMD 1206 resistor (marked with 15R0)
-13- 68 ohm SMD 1206 resistors (marked with 68R0)
-9- Red 1206 SMD LEDs (marked with red marker)
-3 - Yellow 1206 SMD LEDs (not marked)
-1- through-hole 3mm Red LED
-1- through-hole 3mm multicolor fast flash LED
-3- 20 pin connectors 2.54mm
-16- 8 pin male headers 2.54mm
-AA battery holder
-2- AA batteries
+### Red / Yellow Version
+- Haunting specter pcb 
+- 1- 15 ohm SMD 1206 resistor (marked with 15R0)
+- 13- 68 ohm SMD 1206 resistors (marked with 68R0)
+- 9- Red 1206 SMD LEDs (marked with red marker)
+- 3 - Yellow 1206 SMD LEDs (not marked)
+- 1- through-hole 3mm Red LED
+- 1- through-hole 3mm multicolor fast flash LED
+- 3- 20 pin connectors 2.54mm
+- 16- 8 pin male headers 2.54mm
+- AA battery holder
+- 2- AA batteries
 
-Optional:
+### Optional:
 
 I’m including a list of resistor / LED pairings so that you can customize the LED colors, if desired. You’ll need to supply your own LEDs/resistors for any changes. If you don’t wish to customize the LED colors, skip to the assembly instructions. There are separate assembly instructions for the red/yellow and the multi-color versions, so jump to whichever one you have. 
 
-There are many calculators available to calculate the current limiting resistor for a series resistor/LED circuits such as this one: https://ledcalculator.net/
-
+There are many calculators available to calculate the current limiting resistor for a series resistor/LED circuits such as this one: [https://ledcalculator.net/](https://ledcalculator.net/)
 All of the resistors in the Haunting Specter Expansion Board are in series with their respective LED. For example, D1 is in series with R1, D2 is in series with R2, etc. This means that you can use the calculator above to calculate the new resistance for each resistor that is in series with the LED that you wish to change. 
-
 
 So, for instance, if you want to change D1 from Red to Blue you will need the ‘forward voltage’ and ‘forward current’ of the Blue LED (forward voltage: 3-3.3v and forward current: 20mA). Note: this may not always be the case so consult the documentation for the specific LED you are using. You can then use the calculator to calculate the minimum required resistor. In this application, the Power Source is 3.3 volts, so you would enter:
 
