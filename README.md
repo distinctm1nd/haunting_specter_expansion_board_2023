@@ -83,24 +83,24 @@ Contact me on discord if you have questions.
 |D13| R13 | Left eye (from front)|
 |D14 | R14 | Right eye (from front)|
 
-Assembly Instructions (Multi-Color Version):
+### Assembly Instructions (Multi-Color Version):
 
-Verify correct orientation of all LEDs before soldering them. 
+**Verify correct orientation of all LEDs before soldering them. **
 
 Start on the back: 
-Solder a green LED to D3
-Solder a yellow-green LED to D4
-Solder a blue LED to D14
-Solder a yellow LED to D13
-Solder an orange LED to D6
-Solder a red LED to D5
-Solder a pink LED to D7
-Solder an orange LED to D8
-Solder a green LED to D9
+- Solder a green LED to D3
+- Solder a yellow-green LED to D4
+- Solder a blue LED to D14
+- Solder a yellow LED to D13
+- Solder an orange LED to D6
+- Solder a red LED to D5
+- Solder a pink LED to D7
+- Solder an orange LED to D8
+- Solder a green LED to D9
 
-Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.
+**Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.**
 
-
+![D9 Cathode Orientation](d9_cathode_orientation.png "D9 Cathode Orientation")
 
 
 Solder a pink LED to D12
