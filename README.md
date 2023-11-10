@@ -12,6 +12,11 @@ Contact lavaman on discord if you would like a 3d printed back for this board.
 
 This board was available in two versions. One had multicolored LEDs and one had red / yellow LEDs. Both boards have instructions for swapping out different color LEDs (if desired). 
 
+### Multi-color Version
+
+![Multi-color Version Haunting Specter Expansion Board](IMG_20231023_110856.jpg "Multi-color Version Haunting Specter Expansion Board")
+
+
 ### Red / Yellow Version
 
 ![Red/ Yellow Version Haunting Specter Expansion Board](IMG_20231018_212227.jpg "Red/ Yellow Version Haunting Specter Expansion Board")
