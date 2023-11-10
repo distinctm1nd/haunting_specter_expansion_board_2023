@@ -54,6 +54,8 @@ I’m including a list of resistor / LED pairings so that you can customize the 
 There are many calculators available to calculate the current limiting resistor for a series resistor/LED circuits such as this one: [https://ledcalculator.net/](https://ledcalculator.net/)
 All of the resistors in the Haunting Specter Expansion Board are in series with their respective LED. For example, D1 is in series with R1, D2 is in series with R2, etc. This means that you can use the calculator above to calculate the new resistance for each resistor that is in series with the LED that you wish to change. 
 
+![Series resistor / LED](series_resistor_led.png "Series Resistor / LED")
+
 So, for instance, if you want to change D1 from Red to Blue you will need the ‘forward voltage’ and ‘forward current’ of the Blue LED (forward voltage: 3-3.3v and forward current: 20mA). Note: this may not always be the case so consult the documentation for the specific LED you are using. You can then use the calculator to calculate the minimum required resistor. In this application, the Power Source is 3.3 volts, so you would enter:
 
 Power supply voltage (V): 3.3
