@@ -23,6 +23,16 @@ This board was available in two versions. One had multicolored LEDs and one had 
 
 IMG_20231018_212227.jpg
 
+### Front
+
+![Front Haunting Specter Expansion Board](IMG_20231108_202923.jpg "Front Haunting Specter Expansion Board")
+
+
+### Components
+
+![Components Haunting Specter Expansion Board](IMG_20231108_203007.jpg "Components Haunting Specter Expansion Board")
+
+
 ## Components:
 
 ### Multi-Color Version
