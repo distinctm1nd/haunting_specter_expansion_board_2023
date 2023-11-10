@@ -56,7 +56,7 @@ All of the resistors in the Haunting Specter Expansion Board are in series with 
 
 ![Series resistor / LED](series_resistor_led.png "Series Resistor / LED")
 
-So, for instance, if you want to change D1 from Red to Blue you will need the ‘forward voltage’ and ‘forward current’ of the Blue LED (forward voltage: 3-3.3v and forward current: 20mA). Note: this may not always be the case so consult the documentation for the specific LED you are using. You can then use the calculator to calculate the minimum required resistor. In this application, the Power Source is 3.3 volts, so you would enter:
+For instance, if you want to change D1 from Red to Blue you will need the ‘forward voltage’ and ‘forward current’ of the Blue LED (forward voltage: 3-3.3v and forward current: 20mA). Note: this may not always be the case so consult the documentation for the specific LED you are using. You can then use the calculator to calculate the minimum required resistor. In this application, the Power Source is 3.3 volts, so you would enter:
 
 Power supply voltage (V): 3.3
 LED voltage drop (V): 3.0 (assuming this is the forward voltage of your LED)
@@ -66,52 +66,22 @@ Which gives 15 ohms. This is the minimum required resistance to guarantee that y
 
 Contact me on discord if you have questions. 
 
-LED
-Resistor
-Location - Color Provided
-D1
-R1
-Left eye front pupil - through-hole LED
-D2
-R2
-Right eye front pupil- through-hole LED
-D3
-R3
-Right eye (from front)
-D4
-R4
-Right eye (from front)
-D5
-R5
-Left eye (from front)
-D6
-R6
-Left eye (from front)
-D7
-R7
-Nose
-D8
-R8
-Nose
-D9
-R9
-Nose
-D10
-R10
-Mouth
-D11
-R11
-Mouth
-D12
-R12
-Mouth
-D13
-R13
-Left eye (from front)
-D14
-R14
-Right eye (from front)
-
+| **LED**|**Resistor**|**Location - Color Provided**|
+|--- |--- |--- |
+| D1|R1|Left eye front pupil - through-hole LED|
+|D2 |R2| Right eye front pupil- through-hole LED|
+|D3 | R3| Right eye (from front)|
+|D4 | R4 | Right eye (from front)|
+|D5| R5| Left eye (from front)|
+|D6| R6| Left eye (from front)
+|D7 | R7| Nose|
+|D8 | R8 | Nose|
+|D9 | R9 | Nose|
+|D10 | R10 | Mouth|
+|D11 | R11| Mouth|
+|D12 | R12| Mouth|
+|D13| R13 | Left eye (from front)|
+|D14 | R14 | Right eye (from front)|
 
 Assembly Instructions (Multi-Color Version):
 
