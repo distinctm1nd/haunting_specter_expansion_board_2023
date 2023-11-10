@@ -13,32 +13,28 @@ Contact lavaman on discord if you would like a 3d printed back for this board.
 This board was available in two versions. One had multicolored LEDs and one had red / yellow LEDs. Both boards have instructions for swapping out different color LEDs (if desired). 
 
 ### 3d Rendering of front and back
-<img src="front_hasl.png" width="300" />
+<img src="front_hasl.png" width="400" />
 
-![Front Version Haunting Specter Expansion Board](front_hasl.png "Front Haunting Specter Expansion Board")
-
-![Back Version Haunting Specter Expansion Board](back_hasl.png "Back Haunting Specter Expansion Board")
-
+<img src="back_hasl.png" width="400" />
 
 ### Multi-color Version
 
-![Multi-color Version Haunting Specter Expansion Board](IMG_20231023_110856.jpg "Multi-color Version Haunting Specter Expansion Board")
+<img src="IMG_20231023_110856.jpg" width="400" />
 
 
 ### Red / Yellow Version
 
-![Red/ Yellow Version Haunting Specter Expansion Board](IMG_20231018_212227.jpg "Red/ Yellow Version Haunting Specter Expansion Board")
+<img src="IMG_20231018_212227.jpg" width="400" />
 
-IMG_20231018_212227.jpg
 
 ### Front
 
-![Front Haunting Specter Expansion Board](IMG_20231108_202923.jpg "Front Haunting Specter Expansion Board")
+<img src="IMG_20231108_202923.jpg" width="400" />
 
 
 ### Components
 
-![Components Haunting Specter Expansion Board](IMG_20231108_203007.jpg "Components Haunting Specter Expansion Board")
+<img src="IMG_20231108_203007.jpg" width="400" />
 
 
 ## Components:
@@ -129,7 +125,7 @@ Start on the back:
 
 **Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.**
 
-![D9 Cathode Orientation](d9_cathode_orientation.png "D9 Cathode Orientation")
+<img src="d9_cathode_orientation.png" width="400" />
 
 
 - Solder a pink LED to D12
@@ -145,7 +141,7 @@ Move to the front:
 
 Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
-![Connector Orientation](connector_orientation.png "Connector Orientation")
+<img src="connector_orientation.png" width="400" />
 
 - Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
@@ -167,7 +163,7 @@ Start on the back:
 
 **Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.**
 
-![D9 Cathode Orientation](d9_cathode_orientation.png "D9 Cathode Orientation")
+<img src="d9_cathode_orientation.png" width="400" />
 
 Move to the front:
 - Solder 68 ohm resistors to R1, R3-R14
@@ -177,7 +173,7 @@ Move to the front:
 
 - Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
-![Connector Orientation](connector_orientation.png "Connector Orientation")
+<img src="connector_orientation.png" width="400" />
 
 - Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
@@ -196,13 +192,13 @@ You can either power the expansion board with a main Saintcon conference badge o
 
 To power with the main Saintcon conference badge or another extension board, connect the top connector (labeled Badge) to your main badge. 
 
-![Instructions for Use - Powering from Main Sainton Conference Badge](instructions_for_use_main_badge.png "Instructions for Use - Powering from Main Sainton Conference Badge")
+<img src="instructions_for_use_main_badge.png" width="400" />
 
 **DO NOT CONNECT YOUR MAIN CONFERENCE BADGE TO THE CONNECTOR LABELED BATTERY (LOWER ONE). ONLY CONNECT THE MAIN BADGE TO THE TOP CONNECTOR. IF YOU CONNECT YOUR MAIN BADGE TO THE LOWER ONE WITH BATTERIES YOU MAY DAMAGE BOTH BADGES.**
 
 To power with batteries, connect the connectors labeled Badge and Battery together.
 
-![Instructions for Use - Batteries](instructions_for_use_batteries.png  "Instructions for Use - Batteries")
+<img src="instructions_for_use_batteries.png" width="400" />
 
 You can add additional expansion boards by connecting them to the connector at the bottom left corner. 
 
