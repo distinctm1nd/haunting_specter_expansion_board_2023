@@ -116,7 +116,7 @@ Move to the front:
 
 Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
-![Connector Orientation](dconnector_orientation.png "Connector Orientation")
+![Connector Orientation](connector_orientation.png "Connector Orientation")
 
 - Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
@@ -148,7 +148,7 @@ Move to the front:
 
 - Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
-![Connector Orientation](dconnector_orientation.png "Connector Orientation")
+![Connector Orientation](connector_orientation.png "Connector Orientation")
 
 - Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
