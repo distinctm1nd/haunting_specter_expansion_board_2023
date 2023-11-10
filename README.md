@@ -103,74 +103,77 @@ Start on the back:
 ![D9 Cathode Orientation](d9_cathode_orientation.png "D9 Cathode Orientation")
 
 
-Solder a pink LED to D12
-Solder a green LED to D11
-Solder an orange LED to D10
+- Solder a pink LED to D12
+- Solder a green LED to D11
+- Solder an orange LED to D10
 
 Move to the front:
-Solder 68 ohm resistors to R4, R5, R6, R8, R10, R13
-Solder 15 ohm resistors to R1, R2, R3, R7, R9, R11, R12, R14
-Solder the through-hole multicolor fast flash LED to the left eye
-Solder the through-hole green LED to the right eye
+
+- Solder 68 ohm resistors to R4, R5, R6, R8, R10, R13
+- Solder 15 ohm resistors to R1, R2, R3, R7, R9, R11, R12, R14
+- Solder the through-hole multicolor fast flash LED to the left eye
+- Solder the through-hole green LED to the right eye
 
 Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
+![Connector Orientation](dconnector_orientation.png "Connector Orientation")
 
-
-Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
+- Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
 Move to the back:
-Solder the battery holder. 
-Trim the battery holder wires on the front. 
+- Solder the battery holder. 
+- Trim the battery holder wires on the front. 
 
-Optional but highly recommended: 
+#### Optional but highly recommended: 
 If you are planning to get a 3d printed back from Lavaman, hold off on this step until you have your back. You may not need to do this step to get good light coverage with the back on the badge. 
 This step is to apply hot glue over the LEDs/mask area on the forehead and also hot glue over the LEDs/ mask on the right eye. 
 The hot glue helps disperse the LED light so that it shines through the mask area with better coverage. 
 
 
-Assembly Instructions (Red / Yellow Version):
+### Assembly Instructions (Red / Yellow Version):
 
 Start on the back: 
-Solder yellow LEDs to D3, D4 and D14
-Solder red LEDs to D5, D6, D7, D8, D9, D10, D11, D12 and D13. 
+- Solder yellow LEDs to D3, D4 and D14
+- Solder red LEDs to D5, D6, D7, D8, D9, D10, D11, D12 and D13. 
 
-Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.
+**Note: D9 is on the left side of the nose (on back) and the cathode is on the bottom side. I have marked it with a black dot.**
 
-
+![D9 Cathode Orientation](d9_cathode_orientation.png "D9 Cathode Orientation")
 
 Move to the front:
-Solder 68 ohm resistors to R1, R3-R14
-Solder the 15 ohm resistor to R2
-Solder the red through-hole LED to the left eye (from front)
-Solder the multi-color flash LED to the right eye (from front)
+- Solder 68 ohm resistors to R1, R3-R14
+- Solder the 15 ohm resistor to R2
+- Solder the red through-hole LED to the left eye (from front)
+- Solder the multi-color flash LED to the right eye (from front)
 
-Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
+- Solder the 3- 20 pin connectors to the front of the board. Make sure that they are all oriented so that the cut slot faces down. See image: 
 
+![Connector Orientation](dconnector_orientation.png "Connector Orientation")
 
-
-Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
+- Solder the 16- 8 pin headers for the minibadges. The easiest way to solder these is to clip the headers into a minibadge so that you can use the minibadge to angle them correctly. 
 
 Move to the back:
-Solder the battery holder. 
-Trim the battery holder wires on the front. 
+- Solder the battery holder. 
+- Trim the battery holder wires on the front. 
 
-Optional but highly recommended: 
+#### Optional but highly recommended: 
 If you are planning to get a 3d printed back from Lavaman, hold off on this step until you have your back. You may not need to do this step to get good light coverage with the back on the badge. 
 This step is to apply hot glue over the LEDs/mask area on the forehead and also hot glue over the LEDs/ mask on the right eye. 
 The hot glue helps disperse the LED light so that it shines through the mask area with better coverage. 
 
-How to Use:
+### How to Use:
 
-You can either power the expansion board with a main conference badge or with batteries. If you power the extension board with your main conference badge, the clock pin will work. If you power with batteries, the clock pin will not work. 
+You can either power the expansion board with a main Saintcon conference badge or with batteries. If you power the extension board with your main conference badge, the clock pin will work. If you power with batteries, the clock pin will not work. 
 
-To power with the main conference badge or another extension board, connect the top connector (labeled Badge) to your main badge. 
+To power with the main Saintcon conference badge or another extension board, connect the top connector (labeled Badge) to your main badge. 
 
-DO NOT CONNECT YOUR MAIN CONFERENCE BADGE TO THE CONNECTOR LABELED BATTERY (LOWER ONE). ONLY CONNECT THE MAIN BADGE TO THE TOP CONNECTOR. IF YOU CONNECT YOUR MAIN BADGE TO THE LOWER ONE WITH BATTERIES YOU MAY DAMAGE BOTH BADGES. 
+![Instructions for Use - Powering from Main Sainton Conference Badge](instructions_for_use_main_badge.png "Instructions for Use - Powering from Main Sainton Conference Badge")
+
+**DO NOT CONNECT YOUR MAIN CONFERENCE BADGE TO THE CONNECTOR LABELED BATTERY (LOWER ONE). ONLY CONNECT THE MAIN BADGE TO THE TOP CONNECTOR. IF YOU CONNECT YOUR MAIN BADGE TO THE LOWER ONE WITH BATTERIES YOU MAY DAMAGE BOTH BADGES.**
 
 To power with batteries, connect the connectors labeled Badge and Battery together.
 
-
+![Instructions for Use - Batteries](instructions_for_use_batteries.png  "Instructions for Use - Batteries")
 
 You can add additional expansion boards by connecting them to the connector at the bottom left corner. 
 
